@@ -1,2 +1,2 @@
 # git-test-empty-2
-test2 
+test1
